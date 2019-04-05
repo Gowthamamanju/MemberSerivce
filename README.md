@@ -7,12 +7,13 @@ I want to have a “Member” service so that I can easily:
 5. List existing members
 
 ## To Build Project
-
-1. ./gradlew clean test
-
+```gradle
+  ./gradlew clean test
+```
 ## To Run Project
-
-1. ./gradlew clean bootRun
+```gradle
+   ./gradlew clean bootRun
+ ```
 
 ## Following Apis are exposed using Curl command
 
